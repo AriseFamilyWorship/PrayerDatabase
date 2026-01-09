@@ -1,0 +1,2 @@
+git remote set-url origin git@github.com:stayconnectedtech/AFWC_Prayer_Database.git
+git push -u origin main
